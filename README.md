@@ -1,5 +1,4 @@
-#paper
+#NIPS 2016 paper: Inference by Reparameterization in Neural Population Codes
 
-This is just a test folder.
-Uploading the LaTex files for my NIPS paper here.
+LaTex files for the paper
 
