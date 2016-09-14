@@ -1,0 +1,175 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\bibAnnoteFile}[1]{%
+  \IfFileExists{#1}{\begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ \input{#1}\end{quotation}}{}}
+\providecommand{\bibAnnote}[2]{%
+  \begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ #2\end{quotation}}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{knill1996perception}
+Knill DC, Richards W (1996) Perception as Bayesian inference.
+\newblock Cambridge University Press.
+\bibAnnoteFile{knill1996perception}
+
+\bibitem{doya2007bayesian}
+Doya K (2007) Bayesian brain: Probabilistic approaches to neural coding.
+\newblock MIT press.
+\bibAnnoteFile{doya2007bayesian}
+
+\bibitem{pouget2013probabilistic}
+Pouget A, Beck JM, Ma WJ, Latham PE (2013) Probabilistic brains: knowns and
+  unknowns.
+\newblock Nature neuroscience 16: 1170--1178.
+\bibAnnoteFile{pouget2013probabilistic}
+
+\bibitem{beck2011marginalization}
+Beck JM, Latham PE, Pouget A (2011) Marginalization in neural circuits with
+  divisive normalization.
+\newblock The Journal of neuroscience 31: 15310--15319.
+\bibAnnoteFile{beck2011marginalization}
+
+\bibitem{ott2006neurodynamics}
+Ott T, Stoop R (2006) The neurodynamics of belief propagation on binary markov
+  random fields.
+\newblock In: Advances in neural information processing systems. pp.
+  1057--1064.
+\bibAnnoteFile{ott2006neurodynamics}
+
+\bibitem{steimer2009belief}
+Steimer A, Maass W, Douglas R (2009) Belief propagation in networks of spiking
+  neurons.
+\newblock Neural Computation 21: 2502--2523.
+\bibAnnoteFile{steimer2009belief}
+
+\bibitem{litvak2009cortical}
+Litvak S, Ullman S (2009) Cortical circuitry implementing graphical models.
+\newblock Neural computation 21: 3010--3056.
+\bibAnnoteFile{litvak2009cortical}
+
+\bibitem{george2009towards}
+George D, Hawkins J (2009) Towards a mathematical theory of cortical
+  micro-circuits.
+\newblock PLoS Comput Biol 5: e1000532.
+\bibAnnoteFile{george2009towards}
+
+\bibitem{grabska2013demixing}
+Grabska-Barwinska A, Beck J, Pouget A, Latham P (2013) Demixing odors-fast
+  inference in olfaction.
+\newblock In: Advances in Neural Information Processing Systems. pp.
+  1968--1976.
+\bibAnnoteFile{grabska2013demixing}
+
+\bibitem{ma2006bayesian}
+Ma WJ, Beck JM, Latham PE, Pouget A (2006) Bayesian inference with
+  probabilistic population codes.
+\newblock Nature neuroscience 9: 1432--1438.
+\bibAnnoteFile{ma2006bayesian}
+
+\bibitem{pearl1988probabilistic}
+Pearl J (1988) Probabilistic reasoning in intelligent systems: networks of
+  plausible inference.
+\newblock Morgan Kaufmann.
+\bibAnnoteFile{pearl1988probabilistic}
+
+\bibitem{yedidia2003understanding}
+Yedidia JS, Freeman WT, Weiss Y (2003) Understanding belief propagation and its
+  generalizations.
+\newblock Exploring artificial intelligence in the new millennium 8: 236--239.
+\bibAnnoteFile{yedidia2003understanding}
+
+\bibitem{lee2003hierarchical}
+Lee TS, Mumford D (2003) Hierarchical bayesian inference in the visual cortex.
+\newblock JOSA A 20: 1434--1448.
+\bibAnnoteFile{lee2003hierarchical}
+
+\bibitem{rao2004hierarchical}
+Rao RP (2004) Hierarchical bayesian inference in networks of spiking neurons.
+\newblock In: Advances in neural information processing systems. pp.
+  1113--1120.
+\bibAnnoteFile{rao2004hierarchical}
+
+\bibitem{wainwright2003tree}
+Wainwright MJ, Jaakkola TS, Willsky AS (2003) Tree-based reparameterization
+  framework for analysis of sum-product and related algorithms.
+\newblock Information Theory, IEEE Transactions on 49: 1120--1146.
+\bibAnnoteFile{wainwright2003tree}
+
+\bibitem{jazayeri2006optimal}
+Jazayeri M, Movshon JA (2006) Optimal representation of sensory information by
+  neural populations.
+\newblock Nature neuroscience 9: 690--696.
+\bibAnnoteFile{jazayeri2006optimal}
+
+\bibitem{beck2008probabilistic}
+Beck JM, Ma WJ, Kiani R, Hanks T, Churchland AK, Roitman J, Shadlen MN, et~al.
+  (2008) Probabilistic population codes for bayesian decision making.
+\newblock Neuron 60: 1142--1152.
+\bibAnnoteFile{beck2008probabilistic}
+
+\bibitem{graf2011decoding}
+Graf AB, Kohn A, Jazayeri M, Movshon JA (2011) Decoding the activity of
+  neuronal populations in macaque primary visual cortex.
+\newblock Nature neuroscience 14: 239--245.
+\bibAnnoteFile{graf2011decoding}
+
+\bibitem{heeger1992normalization}
+Heeger DJ (1992) Normalization of cell responses in cat striate cortex.
+\newblock Visual neuroscience 9: 181--197.
+\bibAnnoteFile{heeger1992normalization}
+
+\bibitem{carandini2012normalization}
+Carandini M, Heeger DJ (2012) Normalization as a canonical neural computation.
+\newblock Nature Reviews Neuroscience 13: 51--62.
+\bibAnnoteFile{carandini2012normalization}
+
+\bibitem{rubin2015stabilized}
+Rubin DB, Van~Hooser SD, Miller KD (2015) The stabilized supralinear network: A
+  unifying circuit motif underlying multi-input integration in sensory cortex.
+\newblock Neuron 85: 402--417.
+\bibAnnoteFile{rubin2015stabilized}
+
+\bibitem{vasudeva2015marginalization}
+Vasudeva~Raju R, Pitkow X (2015) Marginalization in random nonlinear neural
+  networks.
+\newblock In: COSYNE Abstract.
+\bibAnnoteFile{vasudeva2015marginalization}
+
+\bibitem{hayden2010neurons}
+Hayden BY, Platt ML (2010) Neurons in anterior cingulate cortex multiplex
+  information about reward and action.
+\newblock The Journal of Neuroscience 30: 3339--3346.
+\bibAnnoteFile{hayden2010neurons}
+
+\bibitem{rigotti2013importance}
+Rigotti M, Barak O, Warden MR, Wang XJ, Daw ND, Miller EK, Fusi S (2013) The
+  importance of mixed selectivity in complex cognitive tasks.
+\newblock Nature 497: 585--590.
+\bibAnnoteFile{rigotti2013importance}
+
+\bibitem{raposo2014category}
+Raposo D, Kaufman MT, Churchland AK (2014) A category-free neural population
+  supports evolving demands during decision-making.
+\newblock Nature neuroscience 17: 1784--1792.
+\bibAnnoteFile{raposo2014category}
+
+\bibitem{savin2014spatio}
+Savin C, Deneve S (2014) Spatio-temporal representations of uncertainty in
+  spiking neural networks.
+\newblock In: Advances in Neural Information Processing Systems. pp.
+  2024--2032.
+\bibAnnoteFile{savin2014spatio}
+
+\bibitem{archer2015}
+Archer E, Park I, Buesing L, Cunningham J, Paninski L (2015) Black box
+  variational inference for state space models.
+\newblock arXiv stat.ML: 1511.07367.
+\bibAnnoteFile{archer2015}
+
+\end{thebibliography}

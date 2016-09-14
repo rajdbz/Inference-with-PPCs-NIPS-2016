@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Probabilistic Population Codes}{}% 2
+\BOOKMARK [1][-]{section.3}{Inference by Tree-based Reparameterization}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Graphical Models}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Belief Propagation and its neural plausibility}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Tree-based Reparameterization}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Neural implementation of TRP updates}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{Updating natural parameters}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.2}{Separation of Time Scales for TRP Updates}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.3}{Network Architecture}{section.4}% 10
+\BOOKMARK [1][-]{section.5}{Experiments}{}% 11
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 12
